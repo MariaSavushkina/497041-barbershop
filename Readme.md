@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Maria Savushkina](https://up.htmlacademy.ru/htmlcss/18/user/497041).
-
+* Наставник: [Artem Altigin](https://htmlacademy.ru/profile/artem)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
